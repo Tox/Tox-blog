@@ -29,4 +29,5 @@ For more information about a Tox Node, such as configuration, please visit [our 
 
 Thank you for your consideration in helping Tox grow. Together, we can build a better messaging service.
 
-_Last updated: October 28th, 2014_
+__Last updated: October 28th, 2014__
+_Originally posted by David Lohle_
