@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.tox.im/2014/11/15/achievement-get-groupchat-audio/</loc>
+    <lastmod>2015-01-06T20:01:02.000Z</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.tox.im/2014/10/03/antox-release-0-14-0-alpha/</loc>
     <lastmod>2015-01-01T21:31:41.000Z</lastmod>
   </url>
@@ -13,11 +18,6 @@
   
   <url>
     <loc>https://blog.tox.im/2014/10/06/toxic-added-to-tox-repositories/</loc>
-    <lastmod>2015-01-01T21:31:41.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.tox.im/2014/10/04/ratox-in-tox-repositories/</loc>
     <lastmod>2015-01-01T21:31:41.000Z</lastmod>
   </url>
   
@@ -37,8 +37,8 @@
   </url>
   
   <url>
-    <loc>https://blog.tox.im/2014/03/11/antox-0-4-pushed-to-google-play/</loc>
-    <lastmod>2015-01-01T18:44:07.000Z</lastmod>
+    <loc>https://blog.tox.im/2014/10/04/ratox-in-tox-repositories/</loc>
+    <lastmod>2015-01-01T21:31:41.000Z</lastmod>
   </url>
   
   <url>
@@ -47,8 +47,8 @@
   </url>
   
   <url>
-    <loc>https://blog.tox.im/2014/11/15/achievement-get-groupchat-audio/</loc>
-    <lastmod>2014-12-31T00:24:53.000Z</lastmod>
+    <loc>https://blog.tox.im/2014/03/11/antox-0-4-pushed-to-google-play/</loc>
+    <lastmod>2015-01-01T18:44:07.000Z</lastmod>
   </url>
   
   <url>
