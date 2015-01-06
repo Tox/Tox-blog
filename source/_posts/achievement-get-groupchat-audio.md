@@ -14,5 +14,6 @@ If you're currently running either qTox or uTox, we heavily suggest upgrading to
 {% limg vsrykl.png %}
 
 Here's an audio sample of a music clip being played over group audio:
-[audio ogg="https://blog.libtoxcore.so/wp-content/uploads/2014/11/tox_group_audio.ogg"][/audio]
-(Song: [London by Satan & Megastar](http://cathndadrecords.bandcamp.com/track/london) Licensed CC-BY 3.0)
+<audio ogg="https://blog.libtoxcore.so/wp-content/uploads/2014/11/tox_group_audio.ogg"></audio>
+
+Song: [London by Satan & Megastar](http://cathndadrecords.bandcamp.com/track/london) Licensed CC-BY 3.0
